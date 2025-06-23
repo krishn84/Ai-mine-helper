@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  background: #f2f2f2;
+  margin: 0;
+  padding: 20px;
+}
+.grid {
+  display: grid;
+  gap: 4px;
+}
+.border {
+  border: 1px solid #ccc;
+}
+.aspect-square {
+  aspect-ratio: 1 / 1;
+}
